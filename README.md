@@ -63,3 +63,9 @@ git clone <repo-url>
 cd ticketapp-react
 npm install
 npm start
+
+✦ **Demo Credentials:**
+
+- Email: demo@ticket.app
+
+- Password: password123
