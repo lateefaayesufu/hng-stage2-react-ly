@@ -6,7 +6,7 @@ function Footer() {
       <div className="container">
         <div className="footer-content">
           <p className="footer-text">
-            &copy; {new Date().getFullYear()} TicketFlow. Built with React for
+            &copy; {new Date().getFullYear()} Ticketrak. Built with React for
             Stage 2 Frontend Task.
           </p>
           <p className="footer-text mt-1" style={{ fontSize: "12px" }}>
