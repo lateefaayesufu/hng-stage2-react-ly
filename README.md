@@ -55,7 +55,13 @@ The app includes:
 - React (CRA or Vite)  
 - React Router DOM  
 - State Management: Context API / Redux / Zustand  
-- CSS 
+- CSS
+
+  ✦ **Demo Credentials:**
+
+- Email: demo@ticket.app
+
+- Password: password123
 
 ✦ **Local Setup**
 ```bash
@@ -64,8 +70,4 @@ cd ticketapp-react
 npm install
 npm start
 
-✦ **Demo Credentials:**
 
-- Email: demo@ticket.app
-
-- Password: password123
