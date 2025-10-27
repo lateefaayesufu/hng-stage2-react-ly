@@ -51,7 +51,7 @@ function Navbar() {
                 </linearGradient>
               </defs>
             </svg>
-            <span>TicketFlow</span>
+            <span>ticketrak</span>
           </Link>
 
           <div className="navbar-links">

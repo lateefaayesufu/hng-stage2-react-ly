@@ -43,7 +43,7 @@ function Signup() {
           formData.confirmPassword
         );
 
-        success("Account created successfully! Welcome to TicketFlow.");
+        success("Account created successfully! Welcome to ticketrak.");
         navigate("/dashboard");
       } catch (error) {
         setErrors({ general: error.message });
