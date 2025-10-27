@@ -5,10 +5,10 @@ import Layout from "./components/Layout";
 
 // Pages
 import Home from "./pages/Home";
-import Login from "./pages/Auth/Login";
-import Signup from "./pages/Auth/Signup";
+import Login from "./pages/auth/Login";
+import Signup from "./pages/auth/Signup";
 import Dashboard from "./pages/Dashboard";
-import TicketList from "./pages/Tickets/TicketList";
+import TicketList from "./pages/tickets/TicketList";
 import TicketForm from "./pages/tickets/TicketForm";
 
 // ==========================

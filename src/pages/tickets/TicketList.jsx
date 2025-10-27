@@ -17,6 +17,7 @@ function TicketList() {
     loadTickets();
   }, []);
 
+  
   const loadTickets = () => {
     try {
       const allTickets = getTickets();
